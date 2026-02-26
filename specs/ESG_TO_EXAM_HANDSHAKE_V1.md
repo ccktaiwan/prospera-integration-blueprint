@@ -58,7 +58,6 @@ following schema:
 - F-02 [INTEGRITY_VIOLATION]: Any unauthorized mutation of the 
   Handshake Packet during transit triggers an immediate system-wide 
   SAFE_DEADLOCK.
-
 ====================================================================
 DOCUMENT FOOTER:
 Prospera · International Engineering Standard · v1.0
